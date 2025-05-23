@@ -57,11 +57,11 @@ app.use((req, res, next) => {
 const PORT = process.env.HOSTPORT|| 5500;
 app.use('/api/users', userRouter);
 
-/*app.use(express.static(path.join(__dirname, '../frontend/dist')));
+app.use(express.static(path.join(__dirname, '../frontend/dist')));
 
 app.get('*', (req, res)=> {
     res.sendFile(path.resolve(__dirname, '../frontend/dist', 'index.html'))
-});*/
+});
 
 app.listen(PORT, () => {
     console.log(`Server listening at http://localhost:${PORT}`);
