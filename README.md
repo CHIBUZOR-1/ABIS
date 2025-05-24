@@ -31,6 +31,7 @@
 ---
 
 ## Project Structure
+```bash
 ABIS/
 ├── backend/
 │   ├── Controller/
@@ -47,6 +48,7 @@ ABIS/
 ├── .github/workflows/
 │   └── ci.yml (Cypress CI config)
 └── README.md
+```
 
 
 ## 🛠 Tech Stack
@@ -120,7 +122,7 @@ ABIS/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/ABIS.git
+git clone https://github.com/CHIBUZOR-1/ABIS.git
 cd ABIS
 ```
 
@@ -164,6 +166,10 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 ```
 
-## Author
+## 🧑‍💻 Author
 
-ABIS is built and maintained by Chibuzor Henry Amaechi as a fullstack authentication showcase with CI/CD, testing, and modern tooling.
+**Chibuzor Henry Amaechi** — built ABIS as a fullstack authentication showcase with CI/CD, testing, and modern tooling.
+
+## 📝 License
+
+This project is licensed under the MIT License.
