@@ -45,6 +45,7 @@ jobs:
         working-directory: ./frontend
         start: npm run preview
         wait-on: 'http://localhost:4173'
+        wait-on-timeout: 90 # increase from default 60s
         browser: chrome
 
     - name: Deploy to Render
