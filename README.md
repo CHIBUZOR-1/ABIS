@@ -1,6 +1,6 @@
 # ABIS - Fullstack PERN Authentication App
 
-![CI](https://github.com/CHIBUZOR-1/ABIS/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/CHIBUZOR-1/ABIS/actions/workflows/deploy.yml/badge.svg)
 ![License](https://img.shields.io/github/license/CHIBUZOR-1/ABIS)
 ![Issues](https://img.shields.io/github/issues/CHIBUZOR-1/ABIS)
 ![PRs](https://img.shields.io/github/issues-pr/CHIBUZOR-1/ABIS)
